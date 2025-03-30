@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Claudia!
-<br>⚗️ Chemical Engineer tryinig to learn tech<br>🎓 Studied Chemical Engineering at New Mexico State University<br>🐛 Im currently looking for any oportunities to learn! <br>🎨 Making videos about productivity, art, and engineering<br>🌱 Currently learning about Raspberry PI and data analytics<br><br>
+<br>⚗️ Chemical Engineer tryinig to learn tech<br>🎓 Studied Chemical Engineering at New Mexico State University <br>🎨 Making videos about productivity, art, and engineering<br>🌱 Currently learning about Raspberry PI and data analytics<br><br>
 
 
 ## 🌐 Socials:
@@ -12,12 +12,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=claudiatrevino&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=claudiatrevino&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=claudiatrevino&icon=7&color=3)](https://visitcount.itsvg.in)
