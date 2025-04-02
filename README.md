@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Claudia!
-<br>⚗️ Chemical Engineer tryinig to learn tech<br>🎓 Studied Chemical Engineering at New Mexico State University <br>🎨 Making videos about productivity, art, and engineering<br>🌱 Currently learning about Raspberry PI and data analytics<br><br>
+<br>⚗️ Chemical Engineer tryinig to learn tech<br>🎓 Studied Chemical Engineering  <br>🎨 Making videos about productivity, art, and engineering<br>🌱 Currently learning about Raspberry PI and data analytics<br><br>
 
 
 ## 🌐 Socials:
